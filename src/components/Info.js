@@ -4,7 +4,7 @@ import profileImage from "../images/IMG.jpg"
 export default function info() {
     return(
         <div className = "info">
-            <img src = {profileImage} alt ="profile image" />
+            <img src = {profileImage} alt ="hemanth smiling" />
             <p className="name">Hemanth Ravula</p>
             <p className ="role">Frontend Developer</p>
             <a href = "https://hmnth07.github.io/" className = "website">hemanth.website</a>
